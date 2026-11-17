@@ -1,0 +1,13 @@
+# Senhas e configurações do servidor
+config/database.php
+
+# Arquivos de teste/diagnóstico temporários
+views/teste_sessao.php
+views/diagnostico_cobli.php
+
+# Lixo de sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
